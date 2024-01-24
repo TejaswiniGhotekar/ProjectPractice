@@ -16,7 +16,7 @@ public class testClass {
 			
 		}
 		
-		System.out.println("welcome to github");
+		System.out.println("Collaboration with members");
 		}
 
 
